@@ -25,7 +25,7 @@ L'app iPhone (le micro sans fil du logiciel) arrive bientôt sur l'App Store.
 
 Le téléchargement donne la **version gratuite** : le schéma théorique de ta pièce et sa courbe de réponse mesurée avec ton iPhone.
 
-Le reste (traitement proposé, scan sonore, réverbération, waterfall, micro de mesure, égaliseur, multicanal et Atmos) s'ouvre avec une **licence Pro**, personnelle et faite pour ton ordinateur. Elle s'achète sur [la page de Linear Room](https://artasya-studio.com/linear-room.html#versions).
+Le reste (traitement proposé, scan sonore, réverbération, waterfall, micro de mesure, égaliseur, multicanal et Atmos) s'ouvre avec une **licence Pro**, personnelle, qui s'active sur un seul ordinateur (une fois, dans le logiciel). Elle s'achète sur [la page de Linear Room](https://artasya-studio.com/linear-room.html#versions).
 
 ## À savoir
 
